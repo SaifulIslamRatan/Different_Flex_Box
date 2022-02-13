@@ -1,0 +1,52 @@
+.Main_Flex_Box{
+    height: 535px;
+    width: 1070px;
+    border: 2px rgb(10, 4, 4) solid;
+}
+.Second_Main_Flex_Box{
+    margin: 5px;
+    height: 100px;
+    width: 1055px;
+    border: 2px rgb(0, 255, 34) solid;
+    display: flex;
+    flex-direction: row;
+}
+.Third_Main_Flex_Box{
+    margin: 5px;
+    height: 85px;
+    width: 100px;
+    border: 2px red solid;
+    display: flex;
+
+   
+}
+.Second_Main_Flex_Box_ii{
+    margin: 5px;
+    height: 100px;
+    width: 1055px;
+    border: 2px rgb(0, 255, 64) solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.Third_Main_Flex_Box_ii{
+    margin: 5px;
+    height: 85px;
+    width: 100px;
+    border: 2px red solid;
+}
+.Second_Main_Flex_Box_iii{
+    margin: 5px;
+    height: 100px;
+    width: 1055px;
+    border: 2px rgb(0, 255, 13) solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.Third_Main_Flex_Box_iii{
+    margin: 5px;
+    height: 85px;
+    width: 100px;
+    border: 2px red solid;
+}
